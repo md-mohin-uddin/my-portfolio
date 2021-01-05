@@ -24,12 +24,12 @@ h3{
 }
 .half-width{
     float:left;
-    width: 41%;
+    width: 40%;
     margin: 2%;
     padding: 2%;
 }
 .half-width img{
-    width: 100%;
+    width:100%;
 }
 section{
     height: 400px;
@@ -65,11 +65,13 @@ section{
     border-left: 10px solid;
     border-image: linear-gradient(180deg, lightsalmon,tomato );
     border-image-slice: 1;
+    margin-right: 20px;
 }
 #baby-web{
     border-left: 10px solid;
     border-image: linear-gradient(180deg, blue ,cyan );
     border-image-slice: 1;
+    margin-right: 20px;
 }
 
 footer{
